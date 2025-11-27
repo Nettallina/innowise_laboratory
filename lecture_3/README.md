@@ -20,7 +20,7 @@ A simple Python console program for accounting and analyzing student performance
 
 ## Running
 ```bash
-python grade_analyzer.py
+uv run main.py
 ```
 
 ## Implementation features
