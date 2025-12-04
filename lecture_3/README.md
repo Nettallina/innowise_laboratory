@@ -1,6 +1,6 @@
 # Student Grade Analyzer
 
-A simple Python console program for accounting and analyzing student performance.
+A simple Python console program for accounting and analyzing student performance
 
 ## Opportunities
 
@@ -20,12 +20,12 @@ A simple Python console program for accounting and analyzing student performance
 
 ## Running
 ```bash
-python grade_analyzer.py
+uv run main.py
 ```
 
 ## Implementation features
 
 - Student search is case insensitive
-- All input errors are handled with the output of clear messages.
+- All input errors are handled with the output of clear messages
 - The data is stored as a dictionary list
 - The program is resistant to incorrect input and interruption
