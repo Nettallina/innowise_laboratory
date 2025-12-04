@@ -62,8 +62,7 @@ grades_data = [
 
 cursor.executemany('INSERT INTO grades (student_id, subject, grade) VALUES (?, ?, ?)', grades_data)
 
-# Сохраняем и закрываем
 conn.commit()
 conn.close()
 
-print("База данных school.db успешно создана!")
+print("База данных успешно создана!")
