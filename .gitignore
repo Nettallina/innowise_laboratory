@@ -174,4 +174,5 @@ poetry.toml
 pyrightconfig.json
 .python-version
 uv.lock
+__pycache__
 # End of https://www.toptal.com/developers/gitignore/api/python
